@@ -3,6 +3,7 @@ El podcast en la actualidad es una manera de distribución de contenido en audio
 
 ## Presentación
 La Comunidad Boliviana de Podcasters "PodcastBO" en coordinación con la Fundación Teko Kavi, organizan el Taller del "Podcast para las comunidades" como forma de colaboración y apoyo a comunidades indígenas del oriente y la Amazonía de Bolivia.
+
 El podcast en la actualidad es una manera de distribución de contenido en audio que ha dado lugar a que diversas voces de sectores sociales que no tuvieron acceso a medios de comunicación tradicional.
 
 ## Contenido del taller
@@ -12,11 +13,7 @@ Esta versión del taller cuenta con tres sesiones divididas en subtemas:
 
 La primera Sesión del Taller de Podcast para las comunidades tiene 3 subtemas: Qué es el podcast, su identidad y el guion.
 
-Aquí está el video de la primera Sesión y abajo el contenido de cada subtema y los recursos, utilidades y tareas.
-
-<iframe src="https://www.youtube.com/embed/SOv6UmgEK4Y"  width="100%" height="350" frameborder="0" ></iframe>
-Fuente del video: https://www.youtube.com/watch?v=SOv6UmgEK4Y
-
+Abajo del contenido de cada subtema están los recursos, utilidades y tareas.
 
 **A. ¿QUÉ ES EL PODCAST?**
 
