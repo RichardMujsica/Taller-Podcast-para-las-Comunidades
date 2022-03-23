@@ -1,5 +1,6 @@
 # Taller-Podcast-para-las-Comunidades
-El podcast en la actualidad es una manera de distribución de contenido en audio que ha dado lugar a que diversas voces de sectores sociales que no tuvieron acceso a medios de comunicación tradicional.
+El podcast es una manera de distribución de contenido en audio que da lugar a diversas voces de sectores sociales como es el caso de Comunidades Indígenas de Bolivia. Este es un taller colaborativo organizado entre La Comunidad Boliviana de Podcasters "PodcastBO" en coordinación con la Fundación Teko Kavi.
+Realizado en el mes de marzo de 2022.
 
 ## Presentación
 La Comunidad Boliviana de Podcasters "PodcastBO" en coordinación con la Fundación Teko Kavi, organizan el Taller del "Podcast para las comunidades" como forma de colaboración y apoyo a comunidades indígenas del oriente y la Amazonía de Bolivia.
@@ -31,16 +32,6 @@ _CONTENIDO_:
 	4. Narrativo ficción
 	5. Informativo
 
-_MATERIALES_:  
-Aplicaciones para escuchar podcasts desde celulares. La ventaja es que pueden descarga los episodios que gusten para escuchar luego (sin uso de datos).
-1. [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music) 
-2. [Google Podcast](https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts)  
-3. [Ivoox](https://play.google.com/store/apps/details?id=com.ivoox.app)  
-  
-Podcachers. Aplicaciones exclusivas para podcast. Ventaja de estas Apps es que utilizan diferentes bases de datos y se encuentran más podcast:  
-1. [CastBox](https://play.google.com/store/apps/details?id=fm.castbox.audiobook.radio.podcast)  
-2. [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict)
-
 **B. PROYECTO, IDENTIDAD Y DIMENSIONES DEL PODCAST**
   
 El Objetivo de esta sección es proporcionar bases para la conceptualización y producción de un podcast (show). Para lo cual, realizaremos la conceptualización de mi podcast: su identidad, enfoque y temática (central). Le daremos su dimensión y características, hasta iniciar su planificación.
@@ -71,3 +62,13 @@ _CONTENIDO_:
 	3. Cierre/desenlace
 3. El guion Sonoro
 4. Revisión del guion
+
+_MATERIAL COMPLEMENTARIO DE LA PRIMERA SESIÓN_:  
+Aplicaciones para escuchar podcasts desde celulares. La ventaja es que pueden descarga los episodios que gusten para escuchar luego (sin uso de datos).
+1. [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music) 
+2. [Google Podcast](https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts)  
+3. [Ivoox](https://play.google.com/store/apps/details?id=com.ivoox.app)  
+  
+Podcachers. Aplicaciones exclusivas para podcast. Ventaja de estas Apps es que utilizan diferentes bases de datos y se encuentran más podcast:  
+1. [CastBox](https://play.google.com/store/apps/details?id=fm.castbox.audiobook.radio.podcast)  
+2. [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict)
