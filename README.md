@@ -1,5 +1,5 @@
 # Taller-Podcast-para-las-Comunidades
-El podcast es una manera de distribución de contenido en audio que da lugar a diversas voces de sectores sociales como es el caso de Comunidades Indígenas de Bolivia. Este es un taller colaborativo organizado entre La Comunidad Boliviana de Podcasters "PodcastBO" en coordinación con la Fundación Teko Kavi.
+Taller Podcasting - El podcast es una manera de distribución de contenido en audio que da lugar a diversas voces de sectores sociales como es el caso de Comunidades Indígenas de Bolivia. Este es un taller colaborativo organizado entre La Comunidad Boliviana de Podcasters "PodcastBO" en coordinación con la Fundación Teko Kavi.
 Realizado en el mes de marzo de 2022.
 
 ## Presentación
