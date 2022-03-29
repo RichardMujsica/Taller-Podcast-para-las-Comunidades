@@ -95,7 +95,7 @@ El objetivo de la sesión es proporcionar técnicas e instrumentos para la edici
 2. Algunas técnicas de montaje y diseño de sonido.
 3. Ajustes finales y exportación del audio.
 
-**Requerimientos:**
+**Requerimientos:** 
 Celular: "BandLab: Estudio musical". https://play.google.com/store/apps/details?id=com.bandlab.bandlab
 Computador: REAPER Para editar audio desde la computadora: https://www.reaper.fm/download.php
 
