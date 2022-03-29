@@ -72,3 +72,46 @@ Aplicaciones para escuchar podcasts desde celulares. La ventaja es que pueden de
 Podcachers. Aplicaciones exclusivas para podcast. Ventaja de estas Apps es que utilizan diferentes bases de datos y se encuentran más podcast:  
 1. [CastBox](https://play.google.com/store/apps/details?id=fm.castbox.audiobook.radio.podcast)  
 2. [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict)
+
+### Sesión 2. Grabación del podcast
+El objetivo de la sesión es conocer los criterios y herramientas para la producción y grabación de un episodio de podcast.
+
+**Contenido:**
+1. Equipos (herramientas y APPs) utilizadas para la grabación de audio.
+2. Proceso de grabación según tres características y formatos.
+3. Manejo y clasificación del audio registrado.
+
+**Requerimientos mínimos:**
+1. Contar con su celular.
+2. Tener Instalada una APP para grabación de Audio con [Grabadora de voz - ASR](https://play.google.com/store/apps/details?id=com.nll.asr)
+3. "Manos libres", los audífonos del celular.
+4. El guion o estructura general.
+
+### Sesión 3. Edición del podcast
+El objetivo de la sesión es proporcionar técnicas e instrumentos para la edición, montaje y exportación del audio del podcast.
+
+**Contenido:**
+1. Los pasos del proceso de edición de audio
+2. Algunas técnicas de montaje y diseño de sonido.
+3. Ajustes finales y exportación del audio.
+
+**Requerimientos:**
+Celular: "BandLab: Estudio musical". https://play.google.com/store/apps/details?id=com.bandlab.bandlab
+Computador: REAPER Para editar audio desde la computadora: https://www.reaper.fm/download.php
+
+**Sesión adicional**: Edición de audio con BandLab desde CELULAR.
+
+**Sitios web de música:**
+Enlaces a los Sitios web para descargar música y efectos:
+1) "Biblioteca de Audio" de Youtube:
+Ingresar al "Studio Creator" de la cuenta de Youtube. Ingresar a la pestaña CREAR, y ahí dentro está la "Biblioteca de Audio" con mucha música para descarga. Ahí tienen "Música gratuita" y "Efectos".
+2) Free Music Archive - FMA
+https://freemusicarchive.org/home
+Música libre en Creative Commons
+Descarga en MP3 sin crear usuario.
+3) Free Sound (efectos de sonido y música):
+https://freesound.org/
+Necesita crear una cuenta y puedes descargar sonidos y loop en formato .wav
+4) BendSound:
+https://www.bensound.com/
+
