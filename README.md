@@ -96,7 +96,9 @@ El objetivo de la sesión es proporcionar técnicas e instrumentos para la edici
 3. Ajustes finales y exportación del audio.
 
 **Requerimientos:** 
+
 Celular: "BandLab: Estudio musical". https://play.google.com/store/apps/details?id=com.bandlab.bandlab
+
 Computador: REAPER Para editar audio desde la computadora: https://www.reaper.fm/download.php
 
 **Sesión adicional**: Edición de audio con BandLab desde CELULAR.
