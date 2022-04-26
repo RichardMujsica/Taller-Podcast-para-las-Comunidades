@@ -101,8 +101,10 @@ Celular: "BandLab: Estudio musical". https://play.google.com/store/apps/details?
 
 Computador: REAPER Para editar audio desde la computadora: https://www.reaper.fm/download.php
 
-**Sesión adicional**: Edición de audio con BandLab desde CELULAR.
+**Sesión adicional (video extra)**: Edición de audio con BandLab desde CELULAR.
 
+
+### Sitios de interés
 **Sitios web de música:**
 Enlaces a los Sitios web para descargar música y efectos:
 1) "Biblioteca de Audio" de Youtube:
