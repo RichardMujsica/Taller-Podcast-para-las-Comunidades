@@ -111,11 +111,10 @@ Enlaces a los Sitios web para descargar música y efectos:
 Ingresar al "Studio Creator" de la cuenta de Youtube. Ingresar a la pestaña CREAR, y ahí dentro está la "Biblioteca de Audio" con mucha música para descarga. Ahí tienen "Música gratuita" y "Efectos".
 2) Free Music Archive - FMA
 https://freemusicarchive.org/home
-Música libre en Creative Commons
+Música libre en _Creative Commons_
 Descarga en MP3 sin crear usuario.
 3) Free Sound (efectos de sonido y música):
 https://freesound.org/
 Necesita crear una cuenta y puedes descargar sonidos y loop en formato .wav
 4) BendSound:
 https://www.bensound.com/
-
